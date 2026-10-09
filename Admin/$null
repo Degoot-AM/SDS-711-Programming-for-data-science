@@ -1,0 +1,10 @@
+Unable to find type 
+[Microsoft.Office.Interop.Word.ApplicationClass].
+At line:1 char:2
++ ([Microsoft.Office.Interop.Word.ApplicationClass]::new().Docu
+ments.Op ...
++  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (Microsoft.Off 
+   ic...pplicationClass:TypeName) [], RuntimeException
+    + FullyQualifiedErrorId : TypeNotFound
+ 
