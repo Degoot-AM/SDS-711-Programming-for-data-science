@@ -1,1 +1,1 @@
-# SDS-711-Programming-for-data-science
+SDS-711-Programming-for-data-sciences
